@@ -11,7 +11,7 @@ library(shiny)
 
 # Define UI for application that draws a histogram
 shinyUI(fluidPage(
-  titlePanel("Model Demo"),
+  titlePanel("There is no free lunch !"),
   sidebarLayout(
     sidebarPanel(#"sidebar panel",
                  h1('How-to'),
